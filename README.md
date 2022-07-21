@@ -1,0 +1,2 @@
+# Investigating-the-instability-of-nanotweezers-made-of-nanowires-in-magnetic-field
+The widespread use of nanotweezers in advanced industries and medical purposes has led to new working conditions for such tools, including exposure to an external magnetic field. In this paper, the electromagnetic instability behavior of nanowire-made forceps subjected to a longitudinal magnetic field is simulated. Due to the importance of size dependence in very small dimensions, the structural equation of the system is derived based on the theory of compatible Couple stress.
